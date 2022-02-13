@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+text-align: center;
+font-family: 'EB Garamond', serif;
+
+}
+
+img{
+    width: 100%;
+}
+
+header{
+    background-image: url(20170901_001.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 300px;
+}
+
+.main-nav {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    text-transform: uppercase;
+    margin-top: 34px;
+    list-style: none;
+    font-size: 1.25rem;
+    height: 100%;
+}
+
+/* .main-nav li {
+  gap: 30px;
+} */
+
+.main-nav a {
+    color: azure;
+}
+
+.main-nav a:hover{
+    color: rgb(30, 151, 5);
+}
+
+p{
+    width:100%;
+    font-family: 'EB Garamond', serif;
+}
+
+
+.aaa {
+    width: 100%;
+}
+
+.bbb{
+    margin-right: 5%;
+    width:50%;
+}
+
+.ccc{
+    display: flex;
+    width:100%;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 3%;
+}
+
+.ddd{
+    margin-right: 10%;
+    width: 100%;
+    margin-left: 5%;
+}
+
+H2{
+    font-family: 'EB Garamond', serif;
+}
+
+
+
+.eee{
+font-size: 30px;
+}
+
+body{
+    background-color:#FFFFDD	;
+}
+
+
+u{
+    font-family: 'EB Garamond', serif;
+    margin-left: 5%;
+}
